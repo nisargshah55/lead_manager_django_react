@@ -1,0 +1,1 @@
+# manager_django_react
