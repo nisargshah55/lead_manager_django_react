@@ -1,13 +1,13 @@
 import React, {Fragment} from 'react';
 import Form from './Form';
-import Leads from './Leads';
+import LeadsList from './LeadsList';
 
 export default function Dashboard() {
     return (
         <div>
             <Fragment>
                 <Form/>
-                <Leads/>
+                <LeadsList/>
             </Fragment>
         </div>
     )
